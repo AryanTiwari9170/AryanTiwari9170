@@ -4,10 +4,10 @@ Pre-final year B.Tech (Mechanical Engineering) student at BIT Mesra, Ranchi, foc
 
 ## Featured projects
 
-**[Securitisation Risk & Waterfall Analytics Dashboard](https://github.com/AryanTiwari9170/securitisation-waterfall-engine)** ([Live Demo](PASTE-STREAMLIT-LINK-1))
+**[Securitisation Risk & Waterfall Analytics Dashboard](https://github.com/AryanTiwari9170/securitisation-waterfall-engine)** ([Live Demo](https://zaauto2024-1-analytics.streamlit.app/))
 ABS cash-flow waterfall engine with a Newton-Raphson IRR solver, WAL, 4-scenario stress testing and IFRS 9 ECL staging.
 
-**[Systemic Risk Network Visualizer](https://github.com/AryanTiwari9170/systemic-risk-network-visualizer)** ([Live Demo](PASTE-STREAMLIT-LINK-2))
+**[Systemic Risk Network Visualizer(https://github.com/AryanTiwari9170/systemic-risk-network-visualizer)** ([Live Demo](https://systemic-risk-network-visualizer-6knf5dwmwj2izler6cq4tq.streamlit.app/ ))
 Interbank lending network simulation using centrality measures and a contagion-cascade model to rank systemically important banks.
 
 ## Skills
