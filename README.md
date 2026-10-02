@@ -11,6 +11,7 @@ Here's my [Resume](https://drive.google.com/file/d/1HlGmxNGlNns-ujQdFHjTVp4DL7W-
 ABS cash-flow waterfall engine with a Newton-Raphson IRR solver, WAL, 4-scenario stress testing and IFRS 9 ECL staging.
 
 **[Systemic Risk Network Visualizer](https://github.com/AryanTiwari9170/systemic-risk-network-visualizer)** ([Live Demo](https://systemic-risk-network-visualizer-6knf5dwmwj2izler6cq4tq.streamlit.app/ ))
+
 Interbank lending network simulation using centrality measures and a contagion-cascade model to rank systemically important banks.
 
 ## Skills
