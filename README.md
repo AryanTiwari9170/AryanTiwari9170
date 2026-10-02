@@ -1,6 +1,8 @@
 # Hi, I'm Aryan Tiwari 👋
 
 Pre-final year B.Tech (Mechanical Engineering) student at BIT Mesra, Ranchi, focused on **data and business analytics** in banking and risk. I build analytics tools on financial data using SQL, Python and Power BI.
+   
+Heres my [LinkedIn](https://linkedin.com/in/aryan-tiwari-8370493aa) and [Resume](https://drive.google.com/file/d/1HlGmxNGlNns-ujQdFHjTVp4DL7W-NoAn/view?usp=drivesdk)
 
 ## Featured projects
 
