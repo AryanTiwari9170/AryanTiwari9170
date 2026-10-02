@@ -14,8 +14,13 @@ ABS cash-flow waterfall engine with a Newton-Raphson IRR solver, WAL, 4-scenario
 
 Interbank lending network simulation using centrality measures and a contagion-cascade model to rank systemically important banks.
 
+**[Instructor Effectiveness Analysis](https://github.com/AryanTiwari9170/Instructor-Effectiveness-Analysis)**
+
+ Data-driven analysis and machine learning model predicting instructor effectiveness from engagement and performance metrics.
+ 
 ## Skills
-SQL · Python (Pandas, NumPy, NetworkX) · Power BI (DAX, Power Query) · Excel · Streamlit · Plotly
+
+SQL · Python (Pandas, NumPy, Scikit-learn, NetworkX) · Power BI (DAX, Power Query) · Excel · Streamlit · Plotly
 
 ## Connect
 [LinkedIn](https://linkedin.com/in/aryan-tiwari-8370493aa)
